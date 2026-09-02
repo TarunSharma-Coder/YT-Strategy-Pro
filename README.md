@@ -1,6 +1,14 @@
-# YouTube Strategy Analyser 
+# YouTube Strategy & Packaging Intelligence Pro 🚀
 
-Beginner-friendly Streamlit app for YouTube title research.
+[![CI Pipeline](https://github.com/TarunSharma-Coder/YT-Strategy-Pro/actions/workflows/ci.yml/badge.svg)](https://github.com/TarunSharma-Coder/YT-Strategy-Pro/actions/workflows/ci.yml)
+![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/Frontend-React%2019-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Bundler-Vite%208-646CFF?style=flat&logo=vite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
+High-performance YouTube intelligence platform designed for creators to discover 10x viral outliers, uncover topic gap heatmaps, score multi-modal thumbnail packaging, and extract audience buying intent from comments.
+
 
 This tool analyses:
 
