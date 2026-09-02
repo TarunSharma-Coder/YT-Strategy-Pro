@@ -1,0 +1,12 @@
+.env
+client_secret*.json
+token.json
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/
+streamlit*.log
+node_modules/
+dist/
+.DS_Store
+
