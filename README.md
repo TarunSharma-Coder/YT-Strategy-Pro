@@ -1,4 +1,4 @@
-# YouTube Strategy Analyser
+# YouTube Strategy Analyser 
 
 Beginner-friendly Streamlit app for YouTube title research.
 
